@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// checking source control
-//comment 1
-//comment 2
-//  A simple wrapper for getline() input
+// removed useless lines
+//   A simple wrapper for getline() input
 typedef struct {
   char *line;           // dynamically allocated string
   size_t line_capacity; // allocated size (needed by getline)
